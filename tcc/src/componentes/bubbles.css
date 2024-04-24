@@ -1,0 +1,43 @@
+.bolha01 {
+  height: 600px;
+  width: 600px;
+  border-radius: 32% 68% 28% 72% / 55% 32% 68% 45%;
+  position: absolute;
+  right: -200px;
+  bottom: -100px;
+  background-color: rgba(32, 111, 230, 0.836);
+  z-index: -1;
+}
+
+.bolha02 {
+  height: 600px;
+  width: 600px;
+  border-radius: 77% 23% 52% 48% / 21% 54% 46% 79%;
+  position: absolute;
+  right: 100px;
+  bottom: -200px;
+  background-color: rgb(24, 95, 226);
+  z-index: -1;
+}
+
+.bolha04 {
+  height: 600px;
+  width: 600px;
+  border-radius: 32% 68% 28% 72% / 55% 32% 68% 45%;
+  background-color: rgb(24, 95, 226);
+  position: absolute;
+  left: -200px;
+  bottom: -100px;
+  z-index: -1;
+}
+
+.bolha03 {
+  height: 600px;
+  width: 600px;
+  border-radius: 77% 23% 52% 48% / 21% 54% 46% 79%;
+  position: absolute;
+  left: 100px;
+  bottom: -200px;
+  background-color: rgba(32, 111, 230, 0.836);
+  z-index: -1;
+}

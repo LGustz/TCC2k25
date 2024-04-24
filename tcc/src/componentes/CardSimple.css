@@ -1,0 +1,11 @@
+.card {
+    padding: 20px 10px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+  }
+
+  .card h2 {
+    text-decoration: none;
+  }
